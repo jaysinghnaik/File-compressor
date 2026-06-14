@@ -1,0 +1,30 @@
+{
+  "short_name": "AndroReduce",
+  "name": "AndroReduce - File Converter & Compressor",
+  "description": "A high-performance Android mobile utility to convert between PDF, JPG, and PNG files, and compress them to targeted sizes under custom budgets.",
+  "start_url": ".",
+  "display": "standalone",
+  "id": "/",
+  "orientation": "portrait-primary",
+  "background_color": "#090915",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["utilities", "productivity"]
+}
