@@ -1,0 +1,6 @@
+{
+  "name": "File Converter & Compressor",
+  "description": "A mobile-utility app to convert between PDF, JPG, and PNG, and compress files to a specific targeted size.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
